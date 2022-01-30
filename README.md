@@ -11,7 +11,7 @@ Describe to Dana how someone might use the new webpage by walking her through th
 
 With the addition of the new filters, users can filter for multiple criteria at the same time. For example, if users would like to filter for UFO sightings on 1/1/2010 they would enter that date in the 'date' box and press entrer. The table will only display UFO sightings that occured on 1/1/2010
 
-ENTER IMAGE 2
+![image2](image2.png)
 
 If users would like to filter data for UFO sightings on 1/1/2010 in California ONLY, they can type 'ca' in the state box and keep 1/1/2010 in the 'date' box and press enter. The table will display UFO sightings that occurred on 1/1/2010 in California. 
 
