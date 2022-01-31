@@ -7,8 +7,6 @@ The purpose of this analysis is to provide a more in-depth analysis of UFO sight
 
 ### Results: 
 
-Describe to Dana how someone might use the new webpage by walking her through the process of using the search criteria. Use images of your webpage during the filtering process to support your explanation.
-
 With the addition of the new filters, users can filter for multiple criteria at the same time. For example, if users would like to filter for UFO sightings on 1/1/2010 they would enter that date in the 'date' box and press entrer. The table will only display UFO sightings that occured on 1/1/2010
 
 ![image2](image2.jpeg)
